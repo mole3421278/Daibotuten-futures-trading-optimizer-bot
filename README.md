@@ -58,5 +58,7 @@ To pay the fee you can send the equivalent of 5 usdt for the activation and 10 u
 
 Be sure to send the fees to the right address and blockchain, otherwise the amount will be lost. If you send less than the right amount the bot won't work and you will have to send the total amount again (so, for example don't send for the monthly fee 4 usdt and then 6 usdt because they doesn't count as 10 usdt: just send an unique transaction with 10 usdt).
 
+If you don't know how to send crypto, follow this simple guide: https://www.binance.com/en/support/faq/115003670492
+
 It is possible to send tips to help the project, so greater amount than the right ones are considered correct as well (for example 11 usdt instead of 10).
 
