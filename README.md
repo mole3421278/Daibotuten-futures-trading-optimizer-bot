@@ -41,6 +41,7 @@ To start the bot the first time you need to link it to an API key.
 To create the API key go to https://www.binance.com/en/my/settings/api-management and be sure that the API key has a tick on: 
 - Enable Futures
 
+If you don't know how to create your API key, follow this simple guide: https://www.binance.com/en/support/faq/360002502072
 
 # Devs Fee
 There is a fee of 5 usdt to activate the bot.
