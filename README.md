@@ -41,7 +41,7 @@ Be also sure that you have some Stellar Lumens (XLM) or Fantom (FTM) in the spot
 
 # Devs Fee
 There is a fee of 5 usdt to activate the bot.
-There is a fee of log(AMOUNT PER POSITION)&middot;LEVERAGE&middot;0.3 usdt:
+There is a fee of log(AMOUNT PER POSITION)&bull;LEVERAGE&bull;0.3 usdt:
 - Each day;
 - Each time the bot is started (if you stop the bot clicking on the button and then restart it you don't incur on the fee, but if you stop the bot closing the app and then reopening it yes).
 
