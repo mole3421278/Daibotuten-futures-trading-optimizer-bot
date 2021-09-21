@@ -29,3 +29,17 @@ If you excluded a cryptocurrency, you can readd it to the list of the bot just b
 STOP
 
 If you believe the market is entering in a crash you can stop the bot from buying other cryptocurrencies to reactivate it later, whenever you believe it's fine.
+
+# Activation
+To start the bot you need to link it to an API key.
+To create the API key go to https://www.binance.com/en/my/settings/api-management and be sure that the API key has a tick on: 
+- Enable Spot & Margin Trading
+- Enable Futures
+- Enable Withdrawals
+
+Be also sure that you have some Matic and Fantom in the spot, because they are used as devs fee.
+
+# Devs Fee
+There is a fee of 5 Matic or 5 Fantom to activate the bot.
+There is a fee of AMOUNT PER POSITION*LEVERAGE*0.05 Matic or Fantom each day or each time the bot is started (if you stop the bot clicking on the button and then restart it you don't incur on the fee, but if you stop the bot closing the app and then reopening it yes), so for example with 1.5 as AMOUNT PER POSITION and 10 as LEVERAGE you have a fee of 0.75 Matic or Fantom.
+You can choose if to use Matic or Fantom, but if the blockchain of one of them is under maintenance you have to choose the other one or wait before to use again the bot.
