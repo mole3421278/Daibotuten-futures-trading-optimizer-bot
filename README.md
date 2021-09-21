@@ -2,7 +2,9 @@
 A bot to automatize the futures trading on Binance
 # Warning: The bot DOESN'T guarantee ALWAYS a profit and in case of market crash you can lose ALL your funds
 # How does it work?
-The bot finds the best cryptocurrencies to buy at each moment to resell them later.
+The bot finds the best cryptocurrencies to buy at each moment to resell them later. 
+
+It uses an algorithm powered by AI to buy where an human would buy and at the same time trying to not stay with too much opened positions, so with it you don't have to worry about buying during the best moments.
 # Settings
 The bot leaves a high margin of customization to the user, to fit different strategies: you can change the settings whenever you think the market has changed, so do your own research to maximize the returns from it.
 
