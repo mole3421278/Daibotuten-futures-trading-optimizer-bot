@@ -51,3 +51,4 @@ Examples:
 - With 5 as AMOUNT PER POSITION and 3 as LEVERAGE you have a fee of: log(5)*3*0.3 = 0.629 usdt.
 As you can see, the fee is really lower (fixed the amount per position) if the leverage used is low to encourage to put it high only when highly sure that the market is entered in a bull run. 
 
+    h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
