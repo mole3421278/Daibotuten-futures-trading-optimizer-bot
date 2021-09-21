@@ -45,9 +45,18 @@ To create the API key go to https://www.binance.com/en/my/settings/api-managemen
 # Devs Fee
 There is a fee of 5 usdt to activate the bot.
 
-There is a fee of 10 usdt monthly to run the bot.
+There is a fee of 10 usdt monthly to run the bot (10 usdt each 30 days, so 0.33 usdt/day).
 
 The fees must be paid manually directly by the user because the bot does NOT have the ability to withdraw funds (to be able to withdraw funds, the API key must have a tick on Enable Withdrawals, but, as written before, the bot doesn't require to have it).
 
-If the fees are not paid the bot simply doesn't work. If, passed some months, you want to use again the bot, you have only to pay the monthly fee.
+If the fees are not paid the bot simply doesn't work. If, passed some months, you want to use again the bot, you have only to pay the monthly fee for the next 30 days (the months during which you haven't paid the fees don't have to be paid when you return to use the bot).
+
+To pay the fee you can send the equivalent of 5 usdt for the activation and 10 usdt for the monthly fee to one of the following addresses:
+
+- 0x7Ee897EBa5Df317e426Ec18397fBfA293E31fbD5 using Fantom (FTM), with the Fantom Network 
+- 0x236413c4Ed872D776092B4b4792fF449879FDD4d using IOTeX (IOTX), with the IOTeX Network
+
+Be sure to send the fees to the right address and blockchain, otherwise the amount will be lost. If you send less than the right amount the bot won't work and you will have to send the total amount again (so, for example don't send for the monthly fee 4 usdt and then 6 usdt because they doesn't count as 10 usdt: just send an unique transaction with 10 usdt).
+
+It is possible to send tips to help the project, so greater amount than the right ones are considered correct as well (for example 11 usdt instead of 10).
 
