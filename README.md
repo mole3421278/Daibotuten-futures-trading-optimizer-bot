@@ -44,7 +44,7 @@ To create the API key go to https://www.binance.com/en/my/settings/api-managemen
 If you don't know how to create your API key, follow this simple guide: https://www.binance.com/en/support/faq/360002502072
 
 # Devs Fee
-There is a fee of 5 usdt to activate the bot.
+There is a fee of 5 usdt to activate the bot (to pay only the first time you use the bot).
 
 There is a fee of 10 usdt monthly to run the bot (10 usdt each 30 days, so 0.33 usdt/day).
 
