@@ -41,12 +41,12 @@ Be also sure that you have some Stellar Lumens (XLM) or Fantom (FTM) in the spot
 
 # Devs Fee
 There is a fee of 5 usdt to activate the bot.
-There is a fee of log(AMOUNT PER POSITION) \*LEVERAGE \*0.3 usdt:
+There is a fee of log(AMOUNT PER POSITION)\*LEVERAGE\*0.3 usdt:
 - Each day;
 - Each time the bot is started (if you stop the bot clicking on the button and then restart it you don't incur on the fee, but if you stop the bot closing the app and then reopening it yes).
 
 Examples:
-- With 1.5 as AMOUNT PER POSITION and 10 as LEVERAGE you have a fee of: log(1.5) \*10 \*0.3 = 0.528 usdt;
-- With 5 as AMOUNT PER POSITION and 8 as LEVERAGE you have a fee of: log(5) \*8*0.3 = 1.678 usdt;
-- With 5 as AMOUNT PER POSITION and 3 as LEVERAGE you have a fee of: log(5)*3*0.3 = 0.629 usdt.
+- With 1.5 as AMOUNT PER POSITION and 10 as LEVERAGE you have a fee of: log(1.5)\*10\*0.3 = 0.528 usdt;
+- With 5 as AMOUNT PER POSITION and 8 as LEVERAGE you have a fee of: log(5)\*8\*0.3 = 1.678 usdt;
+- With 5 as AMOUNT PER POSITION and 3 as LEVERAGE you have a fee of: log(5)\*3\*0.3 = 0.629 usdt.
 As you can see, the fee is really lower (fixed the amount per position) if the leverage used is low to encourage to put it high only when highly sure that the market is entered in a bull run. 
