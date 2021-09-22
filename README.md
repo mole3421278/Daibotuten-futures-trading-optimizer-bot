@@ -63,3 +63,7 @@ If you don't know how to send crypto, follow this simple guide: https://www.bina
 
 It is possible to send tips to help the project, so greater amount than the right ones are considered correct as well (for example 11 usdt instead of 10).
 
+# Requirements
+
+The bot runs entirely in local, so it is important that the device where you install it has a good internet connection, otherwise you can incur in misbehaviour.
+
