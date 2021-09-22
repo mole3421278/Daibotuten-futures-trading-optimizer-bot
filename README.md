@@ -41,6 +41,8 @@ To pay the fee you can send the equivalent of 5 usdt for the activation and 10 u
 | ```0x7Ee897EBa5Df317e426Ec18397fBfA293E31fbD5```  | Fantom (FTM)  | Fantom Network |
 | ```0x236413c4Ed872D776092B4b4792fF449879FDD4d```  | IOTeX (IOTX)  | IOTeX Network |
 | ```TFrQ9hfueNT5EBaAnTeBru8Wg2H9dKQRxY``` | Tron (TRX) | Tron Network |
+| ```zil1gsutt32yrtvvmqv3rkjy75e55xneg5z4kve9uz``` | Zilliqa (ZIL) | Zilliqa Network |
+| ```t1VCs4nzcG1Kmv4UarXrGLFYs8RE7dCi1Ne``` | Zcash (ZEC) | Zcash Network |
 
 Be sure to send the fees to the right address and blockchain, otherwise the amount will be lost. If you send less than the right amount the bot won't work and you will have to send the total amount again (so, for example don't send for the monthly fee 4 usdt and then 6 usdt because they doesn't count as 10 usdt: just send an unique transaction with 10 usdt).
 
