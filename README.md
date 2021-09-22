@@ -12,14 +12,7 @@ The bot leaves a high margin of customization to the user, to fit different stra
 | Command  | Description | Possible Values |
 | ------------- | ------------- | ------------- |
 | LEVERAGE | You can choose the leverage to use: higher the leverage higher the risk to incur in a loss of funds, but also higher the potential profit. | From 3 to 10. It is recommended to stay at 10 only if, after doing your own research, you think the market is in a good shape. |
-
-
-
-AMOUNT PER POSITION
-
-You can choose how much to put at maximum in each position: in order to let the bot work well it is RECOMMENDED to have at LEAST 50 times the value you put here, so, if you choose 2 usdt it is RECOMMENDED that you have at least 100 usdt in the futures funds. However, it isn't a strict rule and so you can run the bot even with only 5 usdt (but don't expect that the bot will work well).
-
-Possible values: it depends on the leverage you use. The minimum value is 12/LEVERAGE, so, if you choose as leverage 10 you can choose 1.2 usdt or over. The maximum value is 100 usdt
+| AMOUNT PER POSITION | You can choose how much to put at maximum in each position: in order to let the bot work well it is RECOMMENDED to have at LEAST 50 times the value you put here, so, if you choose 2 usdt it is RECOMMENDED that you have at least 100 usdt in the futures funds. However, it isn't a strict rule and so you can run the bot even with only 5 usdt (but don't expect that the bot will work well). | It depends on the leverage you use. The minimum value is 12/LEVERAGE, so, if you choose as leverage 10 you can choose 1.2 usdt or over. The maximum value is 100 usdt. |
 
 CLOSE
 
