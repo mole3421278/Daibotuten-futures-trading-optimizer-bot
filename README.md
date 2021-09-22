@@ -11,9 +11,7 @@ The bot leaves a high margin of customization to the user, to fit different stra
 
 | Command  | Description |
 | ------------- | ------------- |
-| LEVERAGE | You can choose the leverage to use: higher the leverage higher the risk to incur in a loss of funds, but also higher the potential profit. 
-
-Possible values: from 3 to 10. It is recommended to stay at 10 only if, after doing your own research, you think the market is in a good shape. |
+| LEVERAGE | You can choose the leverage to use: higher the leverage higher the risk to incur in a loss of funds, but also higher the potential profit. Possible values: from 3 to 10. It is recommended to stay at 10 only if, after doing your own research, you think the market is in a good shape. |
 
 
 
