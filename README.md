@@ -35,7 +35,7 @@ You can also leave the bot with its own standard settings if you are a newbie.
 # Activation
 The first time you open the bot it will be in the STATUS UNLINKED.
 
-To start the bot the first time you need to link it to an API key: paste your API key where required **after** having paid the **fee to link it (5 usdt)**, otherwise the API key won't be registered.
+To start the bot the first time you need to link it to an API key: paste your API key and your API secret where required **after** having paid the **fee to link it (5 usdt)**, otherwise the API key won't be registered.
 To create the API key go to https://www.binance.com/en/my/settings/api-management and be sure to put a tick on: 
 - Enable Futures
 
