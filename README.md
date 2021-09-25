@@ -33,24 +33,26 @@ You can also leave the bot with its own standard settings if you are a newbie.
 | **STOP/RESUME** | To stop the bot with this button if you believe the market is entering in a crash from buying other cryptocurrencies to resume it later, whenever you believe it's fine. | |
 
 # Activation
-To start the bot the first time you need to link it to an API key.
-To create the API key go to https://www.binance.com/en/my/settings/api-management and be sure that the API key has a tick on: 
+The first time you open the bot it will be in the STATUS UNLINKED.
+
+To start the bot the first time you need to link it to an API key: paste your API key where required **after** having paid the **fee to link it (5 usdt)**, otherwise the API key won't be registered.
+To create the API key go to https://www.binance.com/en/my/settings/api-management and be sure to put a tick on: 
 - Enable Futures
 
 If you don't know how to create your API key, follow this simple guide: https://www.binance.com/en/support/faq/360002502072
 
-You have also to **pay the fees for the activation (5 usdt) and for running the bot (10 usdt each month)**, as explained better below.
+After having linked the API key to the bot it will pass to the STATUS INACTIVE. You have to **pay the fee for running the bot (10 usdt each month)**, as explained better below, to activate the bot for a month.
 
 # Devs Fee
-There is a **fee of 5 usdt to activate the bot (to pay only the first time you use the bot)**.
+There is a **fee of 5 usdt to link the API key to the bot (to pay only the first time you use the bot)**.
 
 There is a **fee of 10 usdt monthly to run the bot (10 usdt each 30 days, so 0.33 usdt/day)**.
 
-The fees must be paid manually directly by the user because **the bot does NOT have the ability to withdraw funds** (to be able to withdraw funds, the API key must have a tick on Enable Withdrawals, but, as written before, the bot doesn't require to have it).
+The fees must be paid **manually** directly by the user because **the bot does NOT have the ability to withdraw funds** (to be able to withdraw funds, the API key must have a tick on Enable Withdrawals, but, as written before, the bot doesn't require to have it).
 
-If the fees are not paid the bot simply doesn't work. If, passed some months, you want to use again the bot, you have only to pay the monthly fee for the next 30 days (the months during which you haven't paid the fees don't have to be paid when you return to use the bot).
+If the fees are not paid the bot simply doesn't work and it returns to the STATUS INACTIVE. If, passed some months, you want to use again the bot, you have only to pay the monthly fee for the next 30 days (the months during which you haven't paid the fees don't have to be paid when you return to use the bot).
 
-To pay the fee you can send the equivalent of 5 usdt for the activation and 10 usdt for the monthly fee to one of the following addresses at your own choice:
+To pay the fee you can send the equivalent of 5 usdt for the first time and 10 usdt for the monthly fee to one of the following addresses at your own choice:
 
 | Address  | Crypto | Blockchain |
 | ------------- | ------------- | ---------- |
