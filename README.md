@@ -70,3 +70,5 @@ It is possible to send tips to help the project, so greater amount than the righ
 
 The bot runs entirely in local, so it is important that the device where you install it has a good internet connection, otherwise you can incur in misbehaviour.
 
+![bot1](https://user-images.githubusercontent.com/91144525/134771243-66a079e4-954b-48f6-af41-4814c9737a38.png)
+
