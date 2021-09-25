@@ -15,6 +15,7 @@ Use them to maximize the profit stopping and resuming the bot in the right times
 
 # Settings
 The bot leaves a high margin of customization to the user, to fit different strategies: you can change the settings whenever you think the market has changed, so do your own research to maximize the returns from it.
+
 You can also leave the bot with its own standard settings if you are a newbie.
 
 
