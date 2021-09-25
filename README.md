@@ -9,7 +9,7 @@ It uses an algorithm powered by AI to buy where an human would buy and at the sa
 It also shows to the user three indicators: 
 - The fear and greed index of the current and previous day (lower values stand for fear and higher values stand for greed)
 - The whale movements on chain
-- The whale liquidations on the major exchanges
+- The whale liquidations on the major exchanges (so to not be confused it with your own liquidations)
 
 Use them to maximize the profit stopping and resuming the bot in the right times, following your own strategy.
 
@@ -23,9 +23,11 @@ The bot leaves a high margin of customization to the user, to fit different stra
 | **AMOUNT PER POSITION** | To choose how much to put at maximum in each position: in order to let the bot work well it is RECOMMENDED to have at LEAST 50 times the value you put here, so, if you choose 2 usdt it is RECOMMENDED that you have at least 100 usdt in the futures funds. However, it isn't a strict rule and so you can run the bot even with only 5 usdt (but don't expect that the bot will work well). | It depends on the leverage you use. The minimum value is 12/LEVERAGE, so, if you choose as leverage 10 you can choose 1.2 usdt or over. The maximum value is 20 usdt. |
 | **STOP LOSS** | To decide when to close a position in case of loss. The bot has its own mechanism to take care of the potential loss, but you can overwrite it with this command. | It depends on the leverage you use. The minimum value is 0% and it stands for "don't use stop loss" and the maximum value is 75/LEVERAGE%, so, if you choose as leverage 10 you can choose till 7.5% as stop loss. |
 | **TAKE PROFIT** | To decide when to close a position in case of profit. The bot has its own mechanism to take care of the potential profit, but you can overwrite it with this command. | The minimum value is 0% and it stands for "don't use take profit" and the maximum value is 30%. |
+| **START AT NEXT WHALE SHORT LIQUIDATION** | To stop the bot till the next whale short liquidation. The whale short liquidations can be seen in the bottom part of the bot, together with the whale long liquidations. | |
+| **STOP AT NEXT WHALE LONG LIQUIDATION** | To stop the bot when there is a new whale long liquidation. The whale long liquidations can be seen in the bottom part of the bot, together with the whale short liquidations. | |
 | **CLOSE** | To close a position just by clicking a button: the bot is set to close them in the moment that it is the best for it, but if you want to close them before that moment, you can do it. | |
-| **BLACKLIST** | To exclude certain cryptocurrencies to be bought by the bot depending on your own research just by typing their ticker symbol (so BTC for bitcoin) and then pressing ENTER. | |
-| **WHITELIST** | To add again to the list of the bot a cryptocurrency that you excluded before just by typing its ticker symbol and then pressing ENTER. | |
+| **BLACKLIST** | To exclude certain cryptocurrencies to be bought by the bot depending on your own research just by typing their ticker symbol (so BTC for bitcoin) and then pressing ENTER. | All the tickers allowable to be traded in the futures that you haven't yet blacklisted (for example: ETH, BTC...). You can type ALL to blacklist every crypto, to whitelist only the ones that you want. Don't type other things here. |
+| **WHITELIST** | To add again to the list of the bot a cryptocurrency that you excluded before just by typing its ticker symbol and then pressing ENTER. | All the tickers that you have previously blacklisted. You can type ALL to whitelist every crypto. Don't type other things here. |
 | **STOP/RESUME** | To stop the bot with this button if you believe the market is entering in a crash from buying other cryptocurrencies to resume it later, whenever you believe it's fine. | |
 
 # Activation
