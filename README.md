@@ -74,3 +74,17 @@ The bot runs entirely in local, so it is important that the device where you ins
 
 ![bot1](https://user-images.githubusercontent.com/91144525/134771243-66a079e4-954b-48f6-af41-4814c9737a38.png)
 
+# Notes
+
+This project is in its early stage: the trading bot (without an interface) has been tested since April, but the interface is pretty new, so it can be that there are some bugs here and there. Please, do report them if you find them to improve the project.
+
+If you have proposals to improve the project don't hesitate to post them.
+
+For the moment it is in development a version for Windows.
+
+In the future it will be expanded:
+- to other exchanges;
+- to other OS (first of all Android).
+
+Please, use this repository to check for the updates.
+
