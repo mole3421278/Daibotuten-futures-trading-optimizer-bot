@@ -45,6 +45,8 @@ After having linked the API key to the bot it will pass to the STATUS ACTIVE: at
 
 Each 30 days the bot pass to the STATUS INACTIVE: you have to **pay the fee for running the bot (10 usdt each month)**, as explained better below, to use the bot each month.
 
+**DON'T DELETE OR MOVE THE FILE settings_bot.txt otherwise you will have to activate the bot again**
+
 # Devs Fee
 There is a **fee of 5 usdt to link the API key to the bot (to pay only the first time you use the bot together with the monthly fee)**.
 
