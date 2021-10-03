@@ -93,3 +93,6 @@ In the future it will be expanded:
 
 Please, use this repository to check for the updates.
 
+# Latest release
+
+https://github.com/mole3421278/Optimizer-Futures-Trader-Bot/releases/tag/futuresbot1.0.0
