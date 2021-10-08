@@ -95,4 +95,4 @@ Please, use this repository to check for the updates.
 
 # Latest release
 
-https://github.com/mole3421278/Optimizer-Futures-Trader-Bot/releases/tag/v1.0.0
+https://github.com/mole3421278/Optimizer-Futures-Trader-Bot/releases/tag/v1.0.1
