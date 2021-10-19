@@ -1,5 +1,4 @@
-# <p align="center">DAIBOTUTEN</p>
-# <p align="center">(a futures trading optimizer bot)</p>
+# <p align="center">DAIBOTUTEN (a futures trading optimizer bot)</p>
 A bot to automatize the futures trading on Binance
 # Warning: The bot DOESN'T guarantee ALWAYS a profit and in case of market crash you can lose ALL your funds
 # How does it work?
