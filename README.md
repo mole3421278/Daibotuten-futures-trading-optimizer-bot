@@ -80,9 +80,9 @@ It is possible to send tips to help the project, so greater amount than the righ
 
 The bot runs entirely in local, so it is important that the device where you install it has a good internet connection, otherwise you can incur in misbehaviour.
 
-![bot1](https://user-images.githubusercontent.com/91144525/134771243-66a079e4-954b-48f6-af41-4814c9737a38.png)
-![bot3](https://user-images.githubusercontent.com/91144525/135758180-647240f6-9eac-4655-83d2-3f3a0152de9c.png)
-![New Bitmap Image](https://user-images.githubusercontent.com/91144525/137317447-8157d6da-518a-40a5-a0d2-f70b0aaceadb.png)
+![new user](https://user-images.githubusercontent.com/91144525/138165305-9f8b626d-adcd-4cc1-b290-1302562da61c.png)
+![v1 0 34](https://user-images.githubusercontent.com/91144525/138165376-6e57d3c8-7cdb-4b77-919f-3e58ac107463.png)
+
 
 # Notes
 
@@ -100,4 +100,4 @@ Please, use this repository to check for the updates.
 
 # Latest release
 
-https://github.com/mole3421278/Optimizer-Futures-Trader-Bot/releases/tag/v1.0.2
+https://github.com/mole3421278/Daibotuten-futures-trading-optimizer-bot/releases/tag/v1.1.0
