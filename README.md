@@ -13,7 +13,7 @@ It also shows to the user three indicators:
 
 Use them to maximize the profit stopping and resuming the bot in the right times, following your own strategy.
 
-There is also a display of the balance, with a percentage about the daily profit (each day the percentage is reset): please, remember that opening and closing a position costs a small trading fee (paid to the exchange, not to the developers of the bot), so it's normal if the balance decreases a little (we are talking about cents...) during that operations.
+There is also a display of the balance, with a percentage about the daily profit (each day the percentage is reset): please, remember that opening and closing a position costs a small trading fee (paid to the exchange, not to the developers of the bot), so it's normal if the balance decreases a little (we are talking about cents...) during those operations.
 
 # Settings
 The bot leaves a high margin of customization to the user, to fit different strategies: you can change the settings whenever you think the market has changed, so do your own research to maximize the returns from it.
