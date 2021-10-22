@@ -15,6 +15,8 @@ Use them to maximize the profit stopping and resuming the bot in the right times
 
 There is also a display of the balance, with a percentage about the daily profit (each day the percentage is reset): please, remember that opening and closing a position costs a small trading fee (paid to the exchange, not to the developers of the bot), so it's normal if the balance decreases a little (we are talking about cents...) during those operations.
 
+Finally, the bot will notice you if a new version is available for the download.
+
 # Settings
 The bot leaves a high margin of customization to the user, to fit different strategies: you can change the settings whenever you think the market has changed, so do your own research to maximize the returns from it.
 
@@ -30,6 +32,7 @@ You can also leave the bot with its own standard settings if you are a newbie.
 | **TAKE PROFIT** | To decide when to close a position in case of profit. The bot has its own mechanism to take care of the potential profit, but you can overwrite it with this command. | The minimum value is 0% and it stands for "don't use take profit" and the maximum value is 30%. |
 | **DON'T BUY IF BTC GOES** | To force the bot to NOT buy ANYTHING if the price of BTC goes over or under a certain threshold. | The minimum value is -10% and the maximum value is 10%. Put it to 0.0% to disable this behaviour. |
 | **DON'T BUY IF ALT GOES** | To force the bot to NOT buy the cryptocurrency if its price goes over or under a certain threshold | The minimum value is -30% and the maximum value is 30%. Put it to 0.0% to disable this behaviour. |
+| **DON'T BUY FOR** | To force the bot to NOT buy the cryptocurrency for a certain interval of time | The minimum value is 0 hours and the maximum value is 12 hours. Put it to 0.0 hours to disable this behaviour. |
 | **STOP AT NEXT WHALE LONG LIQUIDATION** | To stop the bot when there is a new whale long liquidation. The whale long liquidations can be seen in the bottom part of the bot, together with the whale short liquidations. | |
 | **CLOSE** | To close a position just by clicking a button: the bot is set to close them in the moment that it is the best for it, but if you want to close them before that moment, you can do it. | |
 | **BLACKLIST** | To exclude certain cryptocurrencies to be bought by the bot depending on your own research just by typing their ticker symbol (so BTC for bitcoin) and then pressing ENTER. | All the tickers allowable to be traded in the futures that you haven't yet blacklisted (for example: ETH, BTC...). You can type ALL to blacklist every crypto, to whitelist only the ones that you want. Don't type other things here. |
@@ -100,4 +103,4 @@ Please, use this repository to check for the updates.
 
 # Latest release
 
-https://github.com/mole3421278/Daibotuten-futures-trading-optimizer-bot/releases/tag/v1.1.0
+https://github.com/mole3421278/Daibotuten-futures-trading-optimizer-bot/releases/tag/v1.2.0
