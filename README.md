@@ -63,7 +63,7 @@ The fees must be paid **manually** directly by the user because **the bot does N
 
 If the fees are not paid the bot simply doesn't work and it returns to the STATUS INACTIVE. If, passed some months, you want to use again the bot, you have only to pay the monthly fee for the next 30 days (the months during which you haven't paid the fees don't have to be paid when you return to use the bot).
 
-To pay the fee you can send the equivalent of 15 usdt for the first time (activation + monthly fee) or 10 usdt for the other times (for the monthly fee) to one of the following addresses at your own choice:
+To pay the fee you can send **the equivalent of 15 usdt** for the first time (activation + monthly fee) or **the equivalent of 10 usdt** for the other times (for the monthly fee) to one of the following addresses at your own choice:
 
 | Address  | Crypto | Blockchain |
 | ------------- | ------------- | ---------- |
@@ -72,8 +72,11 @@ To pay the fee you can send the equivalent of 15 usdt for the first time (activa
 | ```TFrQ9hfueNT5EBaAnTeBru8Wg2H9dKQRxY``` | Tron (TRX) | Tron Network |
 | ```zil1gsutt32yrtvvmqv3rkjy75e55xneg5z4kve9uz``` | Zilliqa (ZIL) | Zilliqa Network |
 | ```t1VCs4nzcG1Kmv4UarXrGLFYs8RE7dCi1Ne``` | Zcash (ZEC) | Zcash Network |
+| ```0x886ef884F5F22961De3f39967567f5d933625D8d``` | Harmony (ONE) | Harmony Network |
 
-**Be sure to send the fees to the right address and blockchain, otherwise the amount will be lost.** If you send less than the right amount the bot won't work and you will have to send the total amount again (so, for example don't send for the monthly fee 4 usdt and then 6 usdt because they doesn't count as 10 usdt: just send an unique transaction with 10 usdt).
+**Be sure to send the fees to the right address and blockchain, otherwise the amount will be lost. Also, DO NOT send usdt, but the equivalent of the required amount in the crypto you have chosen between one of the list.** If you send less than the right amount the bot won't work and you will have to send the total amount again (so, for example don't send for the monthly fee 4 usdt and then 6 usdt because they doesn't count as 10 usdt: just send an unique transaction with 10 usdt).
+
+For example: if the current price of FTM is 2 usdt, you can send 7.5 FTM (that are the equivalent of 15 usdt), to activate the bot. Don't send 15 usdt in the Fantom Network or in the other blockchain.
 
 If you don't know how to send crypto, follow this simple guide: https://www.binance.com/en/support/faq/115003670492
 
