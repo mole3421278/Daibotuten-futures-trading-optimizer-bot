@@ -30,8 +30,8 @@ You can also leave the bot with its own standard settings if you are a newbie.
 | **STOP LOSS** | To decide when to close a position in case of loss. The bot has its own mechanism to take care of the potential loss, but you can overwrite it with this command. | It depends on the leverage you use. The minimum value is 0% and it stands for "don't use stop loss" and the maximum value is 75/LEVERAGE%, so, if you choose as leverage 10 you can choose till 7.5% as stop loss. |
 | **TAKE PROFIT** | To decide when to close a position in case of profit. The bot has its own mechanism to take care of the potential profit, but you can overwrite it with this command. | The minimum value is 0% and it stands for "don't use take profit" and the maximum value is 30%. |
 | **TAKE PROFIT** | To decide when to close a position in case of profit. The bot has its own mechanism to take care of the potential profit, but you can overwrite it with this command. | The minimum value is 0% and it stands for "don't use take profit" and the maximum value is 30%. |
-| **DON'T BUY IF BTC GOES** | To force the bot to NOT buy ANYTHING if the price of BTC goes over or under a certain threshold. | The minimum value is -10% and the maximum value is 10%. Put it to 0.0% to disable this behaviour. |
-| **DON'T BUY IF ALT GOES** | To force the bot to NOT buy the cryptocurrency if its price goes over or under a certain threshold | The minimum value is -30% and the maximum value is 30%. Put it to 0.0% to disable this behaviour. |
+| **DON'T BUY IF BTC IS** | To force the bot to NOT buy ANYTHING if the price of BTC is over a certain threshold starting from the time in which it is set. | The minimum value is -10% and the maximum value is 10%. Put it to 0.0% to disable this behaviour. |
+| **DON'T BUY IF ALT IS** | To force the bot to NOT buy the cryptocurrency if its price is over a certain threshold starting from the time in which it is set. | The minimum value is -30% and the maximum value is 30%. Put it to 0.0% to disable this behaviour. |
 | **DON'T BUY FOR** | To force the bot to NOT buy the cryptocurrency for a certain interval of time | The minimum value is 0 hours and the maximum value is 12 hours. Put it to 0.0 hours to disable this behaviour. |
 | **STOP AT NEXT WHALE LONG LIQUIDATION** | To stop the bot when there is a new whale long liquidation. The whale long liquidations can be seen in the bottom part of the bot, together with the whale short liquidations. | |
 | **CLOSE** | To close a position just by clicking a button: the bot is set to close them in the moment that it is the best for it, but if you want to close them before that moment, you can do it. | |
@@ -90,6 +90,8 @@ The bot runs entirely in local, so it is important that the device where you ins
 <p align="center"><img src="https://user-images.githubusercontent.com/91144525/138165305-9f8b626d-adcd-4cc1-b290-1302562da61c.png" width="720"></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/91144525/138481042-bb160fdd-da18-42a4-b91e-9c74ac9529a2.png" width="720"></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/91144525/138165376-6e57d3c8-7cdb-4b77-919f-3e58ac107463.png" width="720"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/91144525/139111881-63c9804c-28a9-4c0f-97cf-7e3bac19ba3d.png" width="720"></p>
+
 
 
 
