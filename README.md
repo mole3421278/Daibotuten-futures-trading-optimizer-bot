@@ -109,4 +109,4 @@ Please, use this repository to check for the updates.
 
 # Latest release
 
-https://github.com/mole3421278/Daibotuten-futures-trading-optimizer-bot/releases/tag/v1.2.1
+https://github.com/mole3421278/Daibotuten-futures-trading-optimizer-bot/releases/latest
