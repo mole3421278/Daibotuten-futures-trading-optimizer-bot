@@ -1,5 +1,5 @@
 # <p align="center">DAIBOTUTEN<br>(a futures trading optimizer bot)</p>
-A bot to automatize the futures trading on Binance
+A bot to automatize the futures trading on Binance (twin of [Benzaiboten](https://github.com/mole3421278/Benzaiboten-spot-trading-bot))
 # Warning: The bot DOESN'T guarantee ALWAYS a profit and in case of market crash you can lose ALL your funds
 # How does it work?
 The bot finds the best cryptocurrencies to buy at each moment to resell them later. 
