@@ -108,7 +108,7 @@ In the future it will be expanded:
 
 Please, use this repository to check for the updates.
 
-For some example of strategies go to https://github.com/mole3421278/Daibotuten-futures-trading-optimizer-bot/wiki/Guide-of-the-bot
+For some examples of strategies go to https://github.com/mole3421278/Daibotuten-futures-trading-optimizer-bot/wiki/Guide-of-the-bot
 
 # Latest release
 
