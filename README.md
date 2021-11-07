@@ -110,7 +110,7 @@ Please, use this repository to check for the updates.
 
 For some examples of strategies go to https://github.com/mole3421278/Daibotuten-futures-trading-optimizer-bot/wiki/Guide-of-the-bot
 
-If you want, participate in the activation lottery from Nov-08-2021 08:00:00 AM UTC to Nov-15-2021 10:00:00 PM UTC activating the bot using the Fantom Network
+If you want, participate in the activation lottery from Nov-08-2021 08:00:00 AM UTC to Nov-15-2021 10:00:00 PM UTC activating the bot using the Fantom Network. More details in: https://mole.gitbook.io/fantom-activation-lottery/
 
 # Latest release
 
