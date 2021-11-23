@@ -72,7 +72,7 @@ To pay the fee you can send **the equivalent of 15 usdt** for the first time (ac
 | ```TFrQ9hfueNT5EBaAnTeBru8Wg2H9dKQRxY``` | Tron (TRX) | Tron Network |
 | ```zil1gsutt32yrtvvmqv3rkjy75e55xneg5z4kve9uz``` | Zilliqa (ZIL) | Zilliqa Network |
 | ```t1VCs4nzcG1Kmv4UarXrGLFYs8RE7dCi1Ne``` | Zcash (ZEC) | Zcash Network |
-| ```0x236413c4Ed872D776092B4b4792fF449879FDD4d``` | Harmony (ONE) | Harmony Network |
+| ```1UCgbZqt53pWHSZxCiQGXYsc3pqtmHcon9rReeeQDwY``` | Solana (SOL) | Solana Network |
 | ```RH1aLSgnq7RSenGHpRPRKKCqWwSmA8wgjF``` | Ravencoin (RVN) | Ravencoin Network |
 
 **Be sure to send the fees to the right address and blockchain, otherwise the amount will be lost. Also, DO NOT send usdt, but the equivalent of the required amount in the crypto you have chosen between one of the list.** If you send less than the right amount the bot won't work and you will have to send the total amount again (so, for example don't send for the monthly fee 4 usdt and then 6 usdt because they doesn't count as 10 usdt: just send an unique transaction with 10 usdt).
