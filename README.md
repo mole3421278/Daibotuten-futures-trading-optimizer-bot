@@ -71,7 +71,7 @@ To pay the fee you can send **the equivalent of 15 usdt** for the first time (ac
 | ```io148yvz30p2k3jr9shupm8tvp475fyc7936qpafy```  | IOTeX (IOTX)  | IOTeX Network |
 | ```TFrQ9hfueNT5EBaAnTeBru8Wg2H9dKQRxY``` | Tron (TRX) | Tron Network |
 | ```zil1gsutt32yrtvvmqv3rkjy75e55xneg5z4kve9uz``` | Zilliqa (ZIL) | Zilliqa Network |
-| ```t1VCs4nzcG1Kmv4UarXrGLFYs8RE7dCi1Ne``` | Zcash (ZEC) | Zcash Network |
+| ```0x2fa72451f159e2b52859bf44f6f5e9651e83ca35``` | VeChain (VET) | VeChain Network |
 | ```1UCgbZqt53pWHSZxCiQGXYsc3pqtmHcon9rReeeQDwY``` | Solana (SOL) | Solana Network |
 | ```RH1aLSgnq7RSenGHpRPRKKCqWwSmA8wgjF``` | Ravencoin (RVN) | Ravencoin Network |
 
