@@ -98,6 +98,8 @@ The bot runs entirely in local, so it is important that the device where you ins
 
 # Notes
 
+The bot uses the Hedge Mode to trade. Set it going to binance futures --> preference --> position mode.
+
 It can be that there are some minor bugs here and there. Please, do report them if you find them to improve the project.
 
 If you have proposals to improve the project don't hesitate to post them.
