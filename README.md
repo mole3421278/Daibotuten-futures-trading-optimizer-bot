@@ -72,7 +72,7 @@ To pay the fee you can send **the equivalent of 15 usdt** for the first time (ac
 | Address  | Crypto | Blockchain |
 | ------------- | ------------- | ---------- |
 | ```0x7Ee897EBa5Df317e426Ec18397fBfA293E31fbD5```  | Fantom (FTM)  | Fantom Network |
-| ```io148yvz30p2k3jr9shupm8tvp475fyc7936qpafy```  | IOTeX (IOTX)  | IOTeX Network |
+| ```io1n6722ad2tpw48xf4wf28fd9f6darqcqv3sn5pd```  | IOTeX (IOTX)  | IOTeX Network |
 | ```TFrQ9hfueNT5EBaAnTeBru8Wg2H9dKQRxY``` | Tron (TRX) | Tron Network |
 | ```zil1gsutt32yrtvvmqv3rkjy75e55xneg5z4kve9uz``` | Zilliqa (ZIL) | Zilliqa Network |
 | ```0x2fa72451f159e2b52859bf44f6f5e9651e83ca35``` | VeChain (VET) | VeChain Network |
