@@ -42,7 +42,7 @@ You can also leave the bot with its own standard settings if you are a newbie.
 | **WHITELIST** | To add again to the list of the bot a cryptocurrency that you excluded before just by typing its ticker symbol and then pressing ENTER. | All the tickers that you have previously blacklisted. You can type ALL to whitelist every crypto. Don't type other things here. |
 | **STOP/RESUME** | To stop the bot with this button if you believe the market is entering in a crash from buying other cryptocurrencies to resume it later, whenever you believe it's fine. | |
 
-Some parameters are settable even from the file settings_bot.txt with the expert mode this release: https://github.com/mole3421278/Daibotuten-futures-trading-optimizer-bot/releases/tag/v1.6.0)
+Some parameters are settable even from the file settings_bot.txt with the **expert mode** (wiki of the expert mode: https://github.com/mole3421278/Daibotuten-futures-trading-optimizer-bot/wiki/Expert-mode)
 
 # Activation
 The first time you open the bot it will be in the STATUS UNLINKED.
