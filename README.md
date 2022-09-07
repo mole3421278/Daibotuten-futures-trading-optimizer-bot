@@ -46,51 +46,7 @@ You can also leave the bot with its own standard settings if you are a newbie.
 Some parameters are settable even from the file settings_bot.txt with the **expert mode** (wiki of the expert mode: https://github.com/mole3421278/Daibotuten-futures-trading-optimizer-bot/wiki/Expert-mode)
 
 # Activation
-The first time you open the bot it will be in the STATUS UNLINKED.
-
-To start the bot the first time you need to link it to an API key: paste your API key and your API secret where required **after** having paid the **fee to link it + the monthly fee (15 usdt in total)**, otherwise the API key won't be registered.
-To create the API key go to https://www.binance.com/en/my/settings/api-management and be sure to put a tick on: 
-- Enable Futures
-
-If you don't know how to create your API key, follow this simple guide: https://www.binance.com/en/support/faq/360002502072
-
-After having linked the API key to the bot it will pass to the STATUS ACTIVE: at this point it will start to buy and sell following the settings you chose to use, that you can change while it runs. **Don't close its windows** otherwise it will shut down and you will have to open it again.
-
-Each 30 days the bot pass to the STATUS INACTIVE: you have to **pay the fee for running the bot (10 usdt each month)**, as explained better below, to use the bot each month.
-
-**DON'T DELETE OR MOVE THE FILE settings_bot.txt otherwise you will have to activate the bot again**
-
-# Devs Fee
-There is a **fee of 5 usdt to link the API key to the bot (to pay only the first time you use the bot together with the monthly fee)**.
-
-There is a **fee of 10 usdt monthly to run the bot (10 usdt each 30 days, so 0.33 usdt/day)**.
-
-The fees must be paid **manually** directly by the user because **the bot does NOT have the ability to withdraw funds** (to be able to withdraw funds, the API key must have a tick on Enable Withdrawals, but, as written before, the bot doesn't require to have it).
-
-If the fees are not paid the bot simply doesn't work and it returns to the STATUS INACTIVE. If, passed some months, you want to use again the bot, you have only to pay the monthly fee for the next 30 days (the months during which you haven't paid the fees don't have to be paid when you return to use the bot).
-
-To pay the fee you can send **the equivalent of 15 usdt** for the first time (activation + monthly fee) or **the equivalent of 10 usdt** for the other times (for the monthly fee) to one of the following addresses at your own choice:
-
-| Address  | Crypto | Blockchain |
-| ------------- | ------------- | ---------- |
-| ```0x7Ee897EBa5Df317e426Ec18397fBfA293E31fbD5```  | Fantom (FTM)  | Fantom Network |
-| ```io1n6722ad2tpw48xf4wf28fd9f6darqcqv3sn5pd```  | IOTeX (IOTX)  | IOTeX Network |
-| ```TFrQ9hfueNT5EBaAnTeBru8Wg2H9dKQRxY``` | Tron (TRX) | Tron Network |
-| ```zil1gsutt32yrtvvmqv3rkjy75e55xneg5z4kve9uz``` | Zilliqa (ZIL) | Zilliqa Network |
-| ```0x2fa72451f159e2b52859bf44f6f5e9651e83ca35``` | VeChain (VET) | VeChain Network |
-| ```1UCgbZqt53pWHSZxCiQGXYsc3pqtmHcon9rReeeQDwY``` | Solana (SOL) | Solana Network |
-| ```RH1aLSgnq7RSenGHpRPRKKCqWwSmA8wgjF``` | Ravencoin (RVN) | Ravencoin Network |
-| ```0x41AD3A08871c438Cf1D96fB46eFf2e5977E71559``` | BNB (BNB) | BSC Network |
-| ```a027c4bbf9391c38f28c9d0bd705998d7df742e327ebaa857f638c7d194b5925``` | NEAR (NEAR Protocol) | NEAR Network |
-
-
-**Be sure to send the fees to the right address and blockchain, otherwise the amount will be lost. Also, DO NOT send usdt, but the equivalent of the required amount in the crypto you have chosen between one of the list.** If you send less than the right amount the bot won't work and you will have to send the total amount again (so, for example don't send for the monthly fee 4 usdt and then 6 usdt because they doesn't count as 10 usdt: just send an unique transaction with 10 usdt).
-
-For example: if the current price of FTM is 2 usdt, you can send 7.5 FTM (that are the equivalent of 15 usdt), to activate the bot. Don't send 15 usdt in the Fantom Network or in the other blockchain.
-
-If you don't know how to send crypto, follow this simple guide: https://www.binance.com/en/support/faq/115003670492
-
-It is possible to send tips to help the project, so greater amount than the right ones are considered correct as well (for example 11 usdt instead of 10).
+The bot can't be used from not authorized users.
 
 # Requirements
 
